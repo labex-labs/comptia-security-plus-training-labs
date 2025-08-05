@@ -18,10 +18,22 @@ Master cybersecurity fundamentals through hands-on labs, covering threat analysi
 
 ## Exercises
 
-|   Index | Name                                                        | Difficulty   | Practice                                                                                                                          |
-|---------|-------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🟢 Foundational Security Concepts (CIA Triad) in Linu... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882'>Start Lab</a> |
-|       2 | 📖 🔵 Identifying Malware Indicators on Linux               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-identifying-malware-indicators-on-linux-592887'>Start Lab</a>           |
+|   Index | Name                                                        | Difficulty   | Practice                                                                                                                                        |
+|---------|-------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Foundational Security Concepts (CIA Triad) in Linu... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882'>Start Lab</a>               |
+|      02 | 📖 🟢 Identifying Malware Indicators on Linux               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-identifying-malware-indicators-on-linux-592887'>Start Lab</a>                         |
+|      03 | 📖 🟢 Password Policies and Detecting Attack in Linux       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-password-policies-and-detecting-attack-in-linux-592888'>Start Lab</a>                 |
+|      04 | 📖 🟢 Basic Vulnerability Scanning with Nmap                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-basic-vulnerability-scanning-with-nmap-594554'>Start Lab</a>                          |
+|      05 | 📖 🟢 Demonstrating Input Validation and Code Integrity     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-demonstrating-input-validation-and-code-integrity-594556'>Start Lab</a>               |
+|      06 | 📖 🔵 Ensuring Data Integrity and Authenticity with Cryp... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-ensuring-data-integrity-and-authenticity-with-cryptography-594576'>Start Lab</a>      |
+|      07 | 📖 🔵 Managing User Identities and Access Controls in Li... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-managing-user-identities-and-access-controls-in-linux-594585'>Start Lab</a>           |
+|      08 | 📖 🔵 Implementing Data Resilience Backups and File Inte... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-implementing-data-resilience-backups-and-file-integrity-594583'>Start Lab</a>         |
+|      09 | 📖 🔵 Introduction to Container Security with Docker        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-introduction-to-container-security-with-docker-594584'>Start Lab</a>                  |
+|      10 | 📖 🔵 Hardening a Linux Endpoint with Firewall and Servi... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-hardening-a-linux-endpoint-with-firewall-and-service-management-594582'>Start Lab</a> |
+|      11 | 📖 🔵 Network Traffic Analysis and Secure Remote Access     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-network-traffic-analysis-and-secure-remote-access-594587'>Start Lab</a>               |
+|      12 | 📖 🔵 Monitoring and Incident Response Log Analysis         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-monitoring-and-incident-response-log-analysis-594586'>Start Lab</a>                   |
+|      13 | 📖 🔵 Digital Forensics Evidence Acquisition and Integri... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-digital-forensics-evidence-acquisition-and-integrity-594581'>Start Lab</a>            |
+|      14 | 📖 🔵 Applying Security Baselines and Compliance Control... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-applying-security-baselines-and-compliance-controls-594580'>Start Lab</a>             |
 
 ## Environment
 
