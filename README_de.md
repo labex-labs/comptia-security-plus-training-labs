@@ -18,10 +18,22 @@ Meistern Sie die Grundlagen der Cybersicherheit durch praktische Labs, die Bedro
 
 ## Übungen
 
-|   Index | Name                                                        | Schwierigkeit   | Übung                                                                                                                                    |
-|---------|-------------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🟢 Grundlegende Sicherheitskonzepte (CIA-Triade) unte... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882'>Labor Starten</a> |
-|       2 | 📖 🔵 Malware-Indikatoren unter Linux identifizieren        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-identifying-malware-indicators-on-linux-592887'>Labor Starten</a>           |
+|   Index | Name                                                        | Schwierigkeit   | Übung                                                                                                                                                  |
+|---------|-------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Grundlegende Sicherheitskonzepte (CIA-Triade) unte... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882'>Labor Starten</a>               |
+|      02 | 📖 🟢 Malware-Indikatoren unter Linux identifizieren        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-identifying-malware-indicators-on-linux-592887'>Labor Starten</a>                         |
+|      03 | 📖 🟢 Passwortrichtlinien und Angriffsdetektion in Linux    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-password-policies-and-detecting-attack-in-linux-592888'>Labor Starten</a>                 |
+|      04 | 📖 🟢 Grundlegende Schwachstellenscans mit Nmap             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-basic-vulnerability-scanning-with-nmap-594554'>Labor Starten</a>                          |
+|      05 | 📖 🟢 Demonstration von Eingabevalidierung und Code-Inte... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-demonstrating-input-validation-and-code-integrity-594556'>Labor Starten</a>               |
+|      06 | 📖 🔵 Datensicherheit und Authentizität durch Kryptograf... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-ensuring-data-integrity-and-authenticity-with-cryptography-594576'>Labor Starten</a>      |
+|      07 | 📖 🔵 Verwaltung von Benutzeridentitäten und Zugriffskon... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-managing-user-identities-and-access-controls-in-linux-594585'>Labor Starten</a>           |
+|      08 | 📖 🔵 Implementierung von Datensicherungen und Dateinteg... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-implementing-data-resilience-backups-and-file-integrity-594583'>Labor Starten</a>         |
+|      09 | 📖 🔵 Einführung in die Container-Sicherheit mit Docker     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-introduction-to-container-security-with-docker-594584'>Labor Starten</a>                  |
+|      10 | 📖 🔵 Härtung eines Linux-Endpunkts mit Firewall und Ser... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-hardening-a-linux-endpoint-with-firewall-and-service-management-594582'>Labor Starten</a> |
+|      11 | 📖 🔵 Analyse des Netzwerkverkehrs und sicherer Fernzugr... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-network-traffic-analysis-and-secure-remote-access-594587'>Labor Starten</a>               |
+|      12 | 📖 🔵 Überwachung und Protokollanalyse für die Reaktion ... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-monitoring-and-incident-response-log-analysis-594586'>Labor Starten</a>                   |
+|      13 | 📖 🔵 Digitale Forensik: Beweiserfassung und Integrität     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-digital-forensics-evidence-acquisition-and-integrity-594581'>Labor Starten</a>            |
+|      14 | 📖 🔵 Anwendung von Sicherheits-Baselines und Compliance... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-applying-security-baselines-and-compliance-controls-594580'>Labor Starten</a>             |
 
 ## Umgebung
 
