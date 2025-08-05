@@ -18,10 +18,22 @@
 
 ## 연습
 
-|   인덱스 | 이름                                     | 난이도   | 연습                                                                                                                                 |
-|----------|------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🟢 리눅스 기반 보안 개념 (CIA 삼원칙) | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882'>실습 시작</a> |
-|        2 | 📖 🔵 Linux 에서 악성 코드 지표 식별하기 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-identifying-malware-indicators-on-linux-592887'>실습 시작</a>           |
+|   인덱스 | 이름                                                | 난이도   | 연습                                                                                                                                               |
+|----------|-----------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 리눅스 기반 보안 개념 (CIA 삼원칙)            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882'>실습 시작</a>               |
+|       02 | 📖 🟢 Linux 에서 악성 코드 지표 식별하기            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-identifying-malware-indicators-on-linux-592887'>실습 시작</a>                         |
+|       03 | 📖 🟢 Linux 비밀번호 정책 및 공격 탐지              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-password-policies-and-detecting-attack-in-linux-592888'>실습 시작</a>                 |
+|       04 | 📖 🟢 Nmap 을 이용한 기본 취약점 스캔               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-basic-vulnerability-scanning-with-nmap-594554'>실습 시작</a>                          |
+|       05 | 📖 🟢 입력 검증 및 코드 무결성 시연                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-demonstrating-input-validation-and-code-integrity-594556'>실습 시작</a>               |
+|       06 | 📖 🔵 암호화를 통한 데이터 무결성 및 진위성 보장    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-ensuring-data-integrity-and-authenticity-with-cryptography-594576'>실습 시작</a>      |
+|       07 | 📖 🔵 Linux 사용자 ID 및 접근 제어 관리             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-managing-user-identities-and-access-controls-in-linux-594585'>실습 시작</a>           |
+|       08 | 📖 🔵 데이터 복원력 백업 및 파일 무결성 구현        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-implementing-data-resilience-backups-and-file-integrity-594583'>실습 시작</a>         |
+|       09 | 📖 🔵 Docker 를 이용한 컨테이너 보안 소개           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-introduction-to-container-security-with-docker-594584'>실습 시작</a>                  |
+|       10 | 📖 🔵 방화벽 및 서비스 관리로 Linux 엔드포인트 강화 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-hardening-a-linux-endpoint-with-firewall-and-service-management-594582'>실습 시작</a> |
+|       11 | 📖 🔵 네트워크 트래픽 분석 및 보안 원격 액세스      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-network-traffic-analysis-and-secure-remote-access-594587'>실습 시작</a>               |
+|       12 | 📖 🔵 모니터링 및 사고 대응 로그 분석               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-monitoring-and-incident-response-log-analysis-594586'>실습 시작</a>                   |
+|       13 | 📖 🔵 디지털 포렌식 증거 획득 및 무결성             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-digital-forensics-evidence-acquisition-and-integrity-594581'>실습 시작</a>            |
+|       14 | 📖 🔵 보안 기준선 및 규정 준수 제어 적용            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-applying-security-baselines-and-compliance-controls-594580'>실습 시작</a>             |
 
 ## 환경
 
