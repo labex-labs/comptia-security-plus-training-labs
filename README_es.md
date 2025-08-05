@@ -18,10 +18,22 @@ Domina los fundamentos de la ciberseguridad a través de laboratorios prácticos
 
 ## Ejercicios
 
-|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                                       |
-|----------|-------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🟢 Conceptos Fundamentales de Seguridad (Tríada CIA) ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882'>Iniciar Laboratorio</a> |
-|        2 | 📖 🔵 Identificación de Indicadores de Malware en Linux     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-identifying-malware-indicators-on-linux-592887'>Iniciar Laboratorio</a>           |
+|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                                                     |
+|----------|-------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 Conceptos Fundamentales de Seguridad (Tríada CIA) ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882'>Iniciar Laboratorio</a>               |
+|       02 | 📖 🟢 Identificación de Indicadores de Malware en Linux     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-identifying-malware-indicators-on-linux-592887'>Iniciar Laboratorio</a>                         |
+|       03 | 📖 🟢 Políticas de Contraseñas y Detección de Ataques en... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-password-policies-and-detecting-attack-in-linux-592888'>Iniciar Laboratorio</a>                 |
+|       04 | 📖 🟢 Escaneo Básico de Vulnerabilidades con Nmap           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-basic-vulnerability-scanning-with-nmap-594554'>Iniciar Laboratorio</a>                          |
+|       05 | 📖 🟢 Demostración de Validación de Entrada e Integridad... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-demonstrating-input-validation-and-code-integrity-594556'>Iniciar Laboratorio</a>               |
+|       06 | 📖 🔵 Garantizar la Integridad y Autenticidad de los Dat... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-ensuring-data-integrity-and-authenticity-with-cryptography-594576'>Iniciar Laboratorio</a>      |
+|       07 | 📖 🔵 Gestión de Identidades de Usuario y Controles de A... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-managing-user-identities-and-access-controls-in-linux-594585'>Iniciar Laboratorio</a>           |
+|       08 | 📖 🔵 Implementación de Resiliencia de Datos: Copias de ... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-implementing-data-resilience-backups-and-file-integrity-594583'>Iniciar Laboratorio</a>         |
+|       09 | 📖 🔵 Introducción a la Seguridad de Contenedores con Do... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-introduction-to-container-security-with-docker-594584'>Iniciar Laboratorio</a>                  |
+|       10 | 📖 🔵 Endurecimiento de un Endpoint Linux con Firewall y... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-hardening-a-linux-endpoint-with-firewall-and-service-management-594582'>Iniciar Laboratorio</a> |
+|       11 | 📖 🔵 Análisis de Tráfico de Red y Acceso Remoto Seguro     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-network-traffic-analysis-and-secure-remote-access-594587'>Iniciar Laboratorio</a>               |
+|       12 | 📖 🔵 Análisis de Registros para Monitoreo y Respuesta a... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-monitoring-and-incident-response-log-analysis-594586'>Iniciar Laboratorio</a>                   |
+|       13 | 📖 🔵 Adquisición de Evidencia Forense Digital e Integri... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-digital-forensics-evidence-acquisition-and-integrity-594581'>Iniciar Laboratorio</a>            |
+|       14 | 📖 🔵 Aplicación de Líneas Base de Seguridad y Controles... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-applying-security-baselines-and-compliance-controls-594580'>Iniciar Laboratorio</a>             |
 
 ## Entorno
 
