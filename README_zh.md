@@ -18,22 +18,22 @@
 
 ## 练习
 
-|   序号 | 名称                                      | 难度   | 练习                                                                                                                                              |
-|--------|-------------------------------------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 🟢 Linux 中的基础安全概念 (CIA 三元组) | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882'>开始实验</a>               |
-|     02 | 📖 🟢 识别 Linux 上的恶意软件指标         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-identifying-malware-indicators-on-linux-592887'>开始实验</a>                         |
-|     03 | 📖 🟢 Linux 密码策略与攻击检测            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-password-policies-and-detecting-attack-in-linux-592888'>开始实验</a>                 |
-|     04 | 📖 🟢 使用 Nmap 进行基础漏洞扫描          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-basic-vulnerability-scanning-with-nmap-594554'>开始实验</a>                          |
-|     05 | 📖 🟢 演示输入验证和代码完整性            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-demonstrating-input-validation-and-code-integrity-594556'>开始实验</a>               |
-|     06 | 📖 🔵 使用加密技术确保数据完整性和真实性  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-ensuring-data-integrity-and-authenticity-with-cryptography-594576'>开始实验</a>      |
-|     07 | 📖 🔵 Linux 用户身份与访问控制管理        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-managing-user-identities-and-access-controls-in-linux-594585'>开始实验</a>           |
-|     08 | 📖 🔵 实现数据弹性备份和文件完整性        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-implementing-data-resilience-backups-and-file-integrity-594583'>开始实验</a>         |
-|     09 | 📖 🔵 Docker 容器安全入门                 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-introduction-to-container-security-with-docker-594584'>开始实验</a>                  |
-|     10 | 📖 🔵 使用防火墙和服务管理加固 Linux 端点 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-hardening-a-linux-endpoint-with-firewall-and-service-management-594582'>开始实验</a> |
-|     11 | 📖 🔵 网络流量分析与安全远程访问          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-network-traffic-analysis-and-secure-remote-access-594587'>开始实验</a>               |
-|     12 | 📖 🔵 监控与事件响应日志分析              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-monitoring-and-incident-response-log-analysis-594586'>开始实验</a>                   |
-|     13 | 📖 🔵 数字取证证据采集与完整性            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-digital-forensics-evidence-acquisition-and-integrity-594581'>开始实验</a>            |
-|     14 | 📖 🔵 应用安全基线和合规性控制            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-applying-security-baselines-and-compliance-controls-594580'>开始实验</a>             |
+|   序号 | 名称                                      | 难度   | 练习                                                                                                                                                |
+|--------|-------------------------------------------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|     01 | 📖 🆓 Linux 中的基础安全概念 (CIA 三元组) | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-foundational-security-concepts-cia-triad-in-linux-592882'>开始实验</a>               |
+|     02 | 📖 🆓 识别 Linux 上的恶意软件指标         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-identifying-malware-indicators-on-linux-592887'>开始实验</a>                         |
+|     03 | 📖 🆓 Linux 密码策略与攻击检测            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-password-policies-and-detecting-attack-in-linux-592888'>开始实验</a>                 |
+|     04 | 📖 🆓 使用 Nmap 进行基础漏洞扫描          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-basic-vulnerability-scanning-with-nmap-594554'>开始实验</a>                          |
+|     05 | 📖 🆓 演示输入验证和代码完整性            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-demonstrating-input-validation-and-code-integrity-594556'>开始实验</a>               |
+|     06 | 📖 🆓 使用加密技术确保数据完整性和真实性  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-ensuring-data-integrity-and-authenticity-with-cryptography-594576'>开始实验</a>      |
+|     07 | 📖  Linux 用户身份与访问控制管理          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-managing-user-identities-and-access-controls-in-linux-594585'>开始实验</a>           |
+|     08 | 📖  实现数据弹性备份和文件完整性          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-implementing-data-resilience-backups-and-file-integrity-594583'>开始实验</a>         |
+|     09 | 📖  Docker 容器安全入门                   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-introduction-to-container-security-with-docker-594584'>开始实验</a>                  |
+|     10 | 📖  使用防火墙和服务管理加固 Linux 端点   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-hardening-a-linux-endpoint-with-firewall-and-service-management-594582'>开始实验</a> |
+|     11 | 📖  网络流量分析与安全远程访问            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-network-traffic-analysis-and-secure-remote-access-594587'>开始实验</a>               |
+|     12 | 📖  监控与事件响应日志分析                | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-monitoring-and-incident-response-log-analysis-594586'>开始实验</a>                   |
+|     13 | 📖  数字取证证据采集与完整性              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-digital-forensics-evidence-acquisition-and-integrity-594581'>开始实验</a>            |
+|     14 | 📖  应用安全基线和合规性控制              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/comptia-applying-security-baselines-and-compliance-controls-594580'>开始实验</a>             |
 
 ## 学习环境
 
