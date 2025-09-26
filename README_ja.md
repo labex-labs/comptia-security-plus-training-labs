@@ -18,22 +18,22 @@
 
 ## 演習
 
-|   インデックス | 名前                                                                  | 難易度   | 練習                                                                                                                                                |
-|----------------|-----------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🟢 Linux におけるセキュリティの基礎概念（CIA トライアド）          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-foundational-security-concepts-cia-triad-in-linux-592882'>ラボを開始</a>               |
-|             02 | 📖 🟢 Linux におけるマルウェアの兆候特定                              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-identifying-malware-indicators-on-linux-592887'>ラボを開始</a>                         |
-|             03 | 📖 🟢 Linux におけるパスワードポリシーと攻撃の検出                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-password-policies-and-detecting-attack-in-linux-592888'>ラボを開始</a>                 |
-|             04 | 📖 🟢 Nmap による基本的な脆弱性スキャン                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-basic-vulnerability-scanning-with-nmap-594554'>ラボを開始</a>                          |
-|             05 | 📖 🟢 入力検証とコード整合性の実演                                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-demonstrating-input-validation-and-code-integrity-594556'>ラボを開始</a>               |
-|             06 | 📖 🔵 暗号化によるデータの整合性と真正性の確保                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-ensuring-data-integrity-and-authenticity-with-cryptography-594576'>ラボを開始</a>      |
-|             07 | 📖 🔵 Linux におけるユーザーID とアクセス制御の管理                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-managing-user-identities-and-access-controls-in-linux-594585'>ラボを開始</a>           |
-|             08 | 📖 🔵 データ回復力バックアップとファイル整合性の実装                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-implementing-data-resilience-backups-and-file-integrity-594583'>ラボを開始</a>         |
-|             09 | 📖 🔵 Docker によるコンテナセキュリティ入門                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-introduction-to-container-security-with-docker-594584'>ラボを開始</a>                  |
-|             10 | 📖 🔵 ファイアウォールとサービス管理による Linux エンドポイントの強化 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hardening-a-linux-endpoint-with-firewall-and-service-management-594582'>ラボを開始</a> |
-|             11 | 📖 🔵 ネットワークトラフィック分析とセキュアなリモートアクセス        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-network-traffic-analysis-and-secure-remote-access-594587'>ラボを開始</a>               |
-|             12 | 📖 🔵 監視とインシデント対応のためのログ分析                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-monitoring-and-incident-response-log-analysis-594586'>ラボを開始</a>                   |
-|             13 | 📖 🔵 デジタルフォレンジック証拠の取得と完全性                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-digital-forensics-evidence-acquisition-and-integrity-594581'>ラボを開始</a>            |
-|             14 | 📖 🔵 セキュリティベースラインとコンプライアンス制御の適用            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-applying-security-baselines-and-compliance-controls-594580'>ラボを開始</a>             |
+|   インデックス | 名前                                                                | 難易度   | 練習                                                                                                                                                  |
+|----------------|---------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+|             01 | 📖 🆓 Linux におけるセキュリティの基礎概念（CIA トライアド）        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-foundational-security-concepts-cia-triad-in-linux-592882'>ラボを開始</a>               |
+|             02 | 📖 🆓 Linux におけるマルウェアの兆候特定                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-identifying-malware-indicators-on-linux-592887'>ラボを開始</a>                         |
+|             03 | 📖 🆓 Linux におけるパスワードポリシーと攻撃の検出                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-password-policies-and-detecting-attack-in-linux-592888'>ラボを開始</a>                 |
+|             04 | 📖 🆓 Nmap による基本的な脆弱性スキャン                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-basic-vulnerability-scanning-with-nmap-594554'>ラボを開始</a>                          |
+|             05 | 📖 🆓 入力検証とコード整合性の実演                                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-demonstrating-input-validation-and-code-integrity-594556'>ラボを開始</a>               |
+|             06 | 📖 🆓 暗号化によるデータの整合性と真正性の確保                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-ensuring-data-integrity-and-authenticity-with-cryptography-594576'>ラボを開始</a>      |
+|             07 | 📖  Linux におけるユーザーID とアクセス制御の管理                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-managing-user-identities-and-access-controls-in-linux-594585'>ラボを開始</a>           |
+|             08 | 📖  データ回復力バックアップとファイル整合性の実装                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-implementing-data-resilience-backups-and-file-integrity-594583'>ラボを開始</a>         |
+|             09 | 📖  Docker によるコンテナセキュリティ入門                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-introduction-to-container-security-with-docker-594584'>ラボを開始</a>                  |
+|             10 | 📖  ファイアウォールとサービス管理による Linux エンドポイントの強化 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-hardening-a-linux-endpoint-with-firewall-and-service-management-594582'>ラボを開始</a> |
+|             11 | 📖  ネットワークトラフィック分析とセキュアなリモートアクセス        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-network-traffic-analysis-and-secure-remote-access-594587'>ラボを開始</a>               |
+|             12 | 📖  監視とインシデント対応のためのログ分析                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-monitoring-and-incident-response-log-analysis-594586'>ラボを開始</a>                   |
+|             13 | 📖  デジタルフォレンジック証拠の取得と完全性                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-digital-forensics-evidence-acquisition-and-integrity-594581'>ラボを開始</a>            |
+|             14 | 📖  セキュリティベースラインとコンプライアンス制御の適用            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-applying-security-baselines-and-compliance-controls-594580'>ラボを開始</a>             |
 
 ## 環境
 
